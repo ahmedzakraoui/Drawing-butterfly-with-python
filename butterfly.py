@@ -1,7 +1,8 @@
-
 #Butterfly's head
 
 import turtle
+screen = turtle.Screen()
+screen.bgcolor('black')
 head = turtle.Turtle()
 head.speed(0)
 head.width(30)
