@@ -2,7 +2,7 @@
 
 import turtle
 screen = turtle.Screen()
-screen.bgcolor('black')
+screen.bgcolor("black")
 head = turtle.Turtle()
 head.speed(0)
 head.width(30)
@@ -25,7 +25,6 @@ head.circle(10)
 
 #The first Half
 
-import turtle
 rainbow = ["red", "orange", "yellow", "green", "red"]
 arc = turtle.Turtle()
 arc.speed(0)
@@ -53,7 +52,6 @@ arc.hideturtle()
 #---------------------------------
 
 #The second Half
-import turtle
 rainbow = ["red", "orange", "yellow", "green", "red"]
 arc = turtle.Turtle()
 arc.speed(0)
@@ -82,7 +80,6 @@ arc.hideturtle()
     
 #The final line
 
-import turtle
 blackline = turtle.Turtle()
 blackline.speed(0)
 blackline.width(60)
@@ -114,7 +111,6 @@ arc.hideturtle()
 
 #Eyes
      
-import turtle
 eyes = turtle.Turtle()
 eyes.penup()
 eyes.right(90)
