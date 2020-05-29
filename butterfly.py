@@ -79,7 +79,7 @@ for color in rainbow:
 arc.hideturtle()
 #---------------------------------
     
-#The final balck line
+#The final line
 
 import turtle
 blackline = turtle.Turtle()
@@ -101,7 +101,7 @@ for line in [1,2,3,4]:
         blackline.right(-5)
         blackline.forward(-15)
         
-#Drawing the final line        
+#Drawing the line        
 blackline.pendown()    
 
 for line in range(10):
